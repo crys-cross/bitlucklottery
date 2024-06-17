@@ -1,4 +1,4 @@
-# Bitlucklottery
+# Bitlucklottery (Under Construction)
 
 - One Repo Dapp with updated stack (Features to be populated)
 - Old version with separated repo:
